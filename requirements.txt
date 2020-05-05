@@ -30,7 +30,6 @@ cloudpickle==1.3.0
 colorclass==2.2.0
 coloredlogs==10.0
 colorhash==1.0.2
-command-not-found==0.3
 ConfigArgParse==1.0
 cryptography==2.6.1
 cs20-microbitio==0.1
