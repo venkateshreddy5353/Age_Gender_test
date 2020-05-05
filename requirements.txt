@@ -33,7 +33,6 @@ colorhash==1.0.2
 ConfigArgParse==1.0
 cryptography==2.6.1
 cs20-microbitio==0.1
-cupshelpers==1.0
 cycler==0.10.0
 Cython==0.29.10
 dask==1.0.0+dfsg
