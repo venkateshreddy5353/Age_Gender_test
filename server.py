@@ -17,7 +17,7 @@ dirpath=os.getcwd()
 
 @app.route("/", methods=['POST','GET'])
 def index():
-    #return render_template('index.html')
+
     if request.method == 'POST':
         data=request.stream.read()
         data=str(data).split(',')[1] #.encode()
@@ -88,5 +88,6 @@ def index():
         if type(main_source)==int:
             return ""
         return main_source
+    #return render_template('index.html')	
 if __name__ == "__main__":
     app.run()
