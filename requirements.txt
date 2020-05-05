@@ -35,7 +35,6 @@ cryptography==2.6.1
 cs20-microbitio==0.1
 cycler==0.10.0
 Cython==0.29.10
-dask==1.0.0+dfsg
 dbus-python==1.2.12
 decorator==4.4.1
 defer==1.0.6
